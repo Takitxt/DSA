@@ -1,2 +1,2 @@
 # DSA
-Everyday Solutions of problems i am solving
+Everyday Solutions of problems I am solving.
